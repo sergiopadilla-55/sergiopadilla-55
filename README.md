@@ -6,7 +6,7 @@ Olá, eu sou o Sérgio Ricardo de Oliveira Padilla! 👋<br></br>
 🌱 No momento, estou desenvolvendo projetos práticos para aplicar meus conhecimentos academicos em lógica e estrutura de dados.<br></br>
 🚀 Tecnologias e Ferramentas<br></br>
 Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:<br></br>
-
+<div></div>
 
 
 
