@@ -1,4 +1,4 @@
-Olá, eu sou o Sérgio Ricardo de Oliveira Padilla! 👋
+Olá, eu sou o Sérgio Ricardo de Oliveira Padilla! 👋<br></br>
 👨‍🏫 Sobre Mim
 🎓 Sou aluno do curso de desenvolvimento de sistemas na instituição Etec Jardim Angela.
 💡 Atualmente estou focado em aprender As materias bases do ensino médio para futuros vestibulares e as ferramentas ultilizadas nas minhas aulas do tecnico.
